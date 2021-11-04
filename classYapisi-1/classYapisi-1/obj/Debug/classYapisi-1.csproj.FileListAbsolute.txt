@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\classYapisi-1\classYapisi-1\bin\Debug\classYapisi-1.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\classYapisi-1\classYapisi-1\bin\Debug\classYapisi-1.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\classYapisi-1\classYapisi-1\bin\Debug\classYapisi-1.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\classYapisi-1\classYapisi-1\obj\Debug\classYapisi_1.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\classYapisi-1\classYapisi-1\obj\Debug\classYapisi_1.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\classYapisi-1\classYapisi-1\obj\Debug\classYapisi-1.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\classYapisi-1\classYapisi-1\obj\Debug\classYapisi-1.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\classYapisi-1\classYapisi-1\obj\Debug\classYapisi-1.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\classYapisi-1\classYapisi-1\obj\Debug\classYapisi-1.csprojResolveAssemblyReference.cache

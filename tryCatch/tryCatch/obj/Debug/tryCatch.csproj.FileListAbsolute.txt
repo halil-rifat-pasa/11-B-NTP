@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\tryCatch\tryCatch\bin\Debug\tryCatch.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\tryCatch\tryCatch\bin\Debug\tryCatch.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\tryCatch\tryCatch\bin\Debug\tryCatch.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\tryCatch\tryCatch\obj\Debug\tryCatch.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\tryCatch\tryCatch\obj\Debug\tryCatch.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\tryCatch\tryCatch\obj\Debug\tryCatch.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\tryCatch\tryCatch\obj\Debug\tryCatch.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\tryCatch\tryCatch\obj\Debug\tryCatch.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\tryCatch\tryCatch\obj\Debug\tryCatch.pdb

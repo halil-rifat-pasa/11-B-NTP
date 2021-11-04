@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\progesBar\progesBar\bin\Debug\progesBar.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\progesBar\progesBar\bin\Debug\progesBar.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\progesBar\progesBar\bin\Debug\progesBar.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\progesBar\progesBar\obj\Debug\progesBar.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\progesBar\progesBar\obj\Debug\progesBar.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\progesBar\progesBar\obj\Debug\progesBar.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\progesBar\progesBar\obj\Debug\progesBar.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\progesBar\progesBar\obj\Debug\progesBar.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\progesBar\progesBar\obj\Debug\progesBar.csprojResolveAssemblyReference.cache

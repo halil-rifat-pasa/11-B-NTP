@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\oyunTest\oyunTest\bin\Debug\oyunTest.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\oyunTest\oyunTest\bin\Debug\oyunTest.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\oyunTest\oyunTest\bin\Debug\oyunTest.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\oyunTest\oyunTest\obj\Debug\oyunTest.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\oyunTest\oyunTest\obj\Debug\oyunTest.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\oyunTest\oyunTest\obj\Debug\oyunTest.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\oyunTest\oyunTest\obj\Debug\oyunTest.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\oyunTest\oyunTest\obj\Debug\oyunTest.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Projeler\oyunTest\oyunTest\obj\Debug\oyunTest.csprojResolveAssemblyReference.cache
