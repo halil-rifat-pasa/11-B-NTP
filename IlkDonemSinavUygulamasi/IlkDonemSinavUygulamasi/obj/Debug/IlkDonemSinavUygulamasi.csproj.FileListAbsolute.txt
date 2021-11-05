@@ -1,0 +1,11 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\IlkDonemSinavUygulamasi\IlkDonemSinavUygulamasi\bin\Debug\IlkDonemSinavUygulamasi.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\IlkDonemSinavUygulamasi\IlkDonemSinavUygulamasi\bin\Debug\IlkDonemSinavUygulamasi.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\IlkDonemSinavUygulamasi\IlkDonemSinavUygulamasi\bin\Debug\IlkDonemSinavUygulamasi.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\IlkDonemSinavUygulamasi\IlkDonemSinavUygulamasi\obj\Debug\IlkDonemSinavUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\IlkDonemSinavUygulamasi\IlkDonemSinavUygulamasi\obj\Debug\IlkDonemSinavUygulamasi.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\IlkDonemSinavUygulamasi\IlkDonemSinavUygulamasi\obj\Debug\IlkDonemSinavUygulamasi.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\IlkDonemSinavUygulamasi\IlkDonemSinavUygulamasi\obj\Debug\IlkDonemSinavUygulamasi.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\IlkDonemSinavUygulamasi\IlkDonemSinavUygulamasi\obj\Debug\IlkDonemSinavUygulamasi.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\IlkDonemSinavUygulamasi\IlkDonemSinavUygulamasi\obj\Debug\IlkDonemSinavUygulamasi.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\IlkDonemSinavUygulamasi\IlkDonemSinavUygulamasi\obj\Debug\IlkDonemSinavUygulamasi.Soru2.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\IlkDonemSinavUygulamasi\IlkDonemSinavUygulamasi\obj\Debug\IlkDonemSinavUygulamasi.Soru3.resources
