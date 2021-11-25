@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\25112021-1\25112021-1\bin\Debug\25112021-1.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\25112021-1\25112021-1\bin\Debug\25112021-1.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\25112021-1\25112021-1\bin\Debug\25112021-1.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\25112021-1\25112021-1\obj\Debug\25112021-1.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\25112021-1\25112021-1\obj\Debug\_25112021_1.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\25112021-1\25112021-1\obj\Debug\_25112021_1.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\25112021-1\25112021-1\obj\Debug\25112021-1.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\25112021-1\25112021-1\obj\Debug\25112021-1.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\25112021-1\25112021-1\obj\Debug\25112021-1.pdb
