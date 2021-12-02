@@ -19,7 +19,7 @@ namespace class_1
 
         class Dikdortgen 
         {
-            public int a, b;
+            private int a, b;
 
             public Dikdortgen(int a, int b) {
                 this.a = a;
@@ -40,12 +40,38 @@ namespace class_1
 
         }
 
+        class DikdortgenHesapla2 
+        {
+            public int a, b;
+
+            public int AlanHesapla()
+            {
+                return this.a * this.b;
+            }
+
+            public int cevreHesapla()
+            {
+                return 2 * (this.a + this.b);
+            }
+        
+        }
+
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Dikdortgen DikdortgenClass = new Dikdortgen(10,20);
-            //MessageBox.Show(DikdortgenClass.a.ToString());
-            //MessageBox.Show(DikdortgenClass.a.ToString());
+            Dikdortgen DikdortgenClass = new Dikdortgen(10, 20);
+            int dikdortgenAlani = DikdortgenClass.AlanHesapla();
+            int cevreHesapla = DikdortgenClass.cevreHesapla();
+            MessageBox.Show("Alanı: " + dikdortgenAlani.ToString() + "\nÇevresi:" + cevreHesapla.ToString());
+
+
+            DikdortgenHesapla2 DikgortgenClass2 = new DikdortgenHesapla2();
+            DikgortgenClass2.a = 30;
+            DikgortgenClass2.b = 40;
+            int dikdorgenAlani2 = DikgortgenClass2.AlanHesapla();
+            int cevreHesapla2 = DikgortgenClass2.cevreHesapla();
+            MessageBox.Show("Alanı: " + dikdorgenAlani2.ToString() + "\nÇevresi:" + cevreHesapla2.ToString());
+            
          
         }
     }
