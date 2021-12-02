@@ -1,0 +1,8 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\class-2\class-2\bin\Debug\class-2.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\class-2\class-2\bin\Debug\class-2.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\class-2\class-2\bin\Debug\class-2.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\class-2\class-2\obj\Debug\class_2.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\class-2\class-2\obj\Debug\class_2.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\class-2\class-2\obj\Debug\class-2.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\class-2\class-2\obj\Debug\class-2.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\class-2\class-2\obj\Debug\class-2.pdb
