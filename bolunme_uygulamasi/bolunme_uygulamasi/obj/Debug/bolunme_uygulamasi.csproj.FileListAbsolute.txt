@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\bolunme_uygulamasi\bolunme_uygulamasi\bin\Debug\bolunme_uygulamasi.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\bolunme_uygulamasi\bolunme_uygulamasi\bin\Debug\bolunme_uygulamasi.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\bolunme_uygulamasi\bolunme_uygulamasi\bin\Debug\bolunme_uygulamasi.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\bolunme_uygulamasi\bolunme_uygulamasi\obj\Debug\bolunme_uygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\bolunme_uygulamasi\bolunme_uygulamasi\obj\Debug\bolunme_uygulamasi.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\bolunme_uygulamasi\bolunme_uygulamasi\obj\Debug\bolunme_uygulamasi.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\bolunme_uygulamasi\bolunme_uygulamasi\obj\Debug\bolunme_uygulamasi.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\bolunme_uygulamasi\bolunme_uygulamasi\obj\Debug\bolunme_uygulamasi.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\bolunme_uygulamasi\bolunme_uygulamasi\obj\Debug\bolunme_uygulamasi.pdb

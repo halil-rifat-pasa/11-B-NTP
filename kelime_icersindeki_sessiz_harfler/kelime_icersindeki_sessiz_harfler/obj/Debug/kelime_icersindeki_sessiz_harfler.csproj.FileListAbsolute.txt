@@ -1,0 +1,8 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kelime_icersindeki_sessiz_harfler\kelime_icersindeki_sessiz_harfler\bin\Debug\kelime_icersindeki_sessiz_harfler.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kelime_icersindeki_sessiz_harfler\kelime_icersindeki_sessiz_harfler\bin\Debug\kelime_icersindeki_sessiz_harfler.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kelime_icersindeki_sessiz_harfler\kelime_icersindeki_sessiz_harfler\bin\Debug\kelime_icersindeki_sessiz_harfler.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kelime_icersindeki_sessiz_harfler\kelime_icersindeki_sessiz_harfler\obj\Debug\kelime_icersindeki_sessiz_harfler.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kelime_icersindeki_sessiz_harfler\kelime_icersindeki_sessiz_harfler\obj\Debug\kelime_icersindeki_sessiz_harfler.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kelime_icersindeki_sessiz_harfler\kelime_icersindeki_sessiz_harfler\obj\Debug\kelime_icersindeki_sessiz_harfler.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kelime_icersindeki_sessiz_harfler\kelime_icersindeki_sessiz_harfler\obj\Debug\kelime_icersindeki_sessiz_harfler.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kelime_icersindeki_sessiz_harfler\kelime_icersindeki_sessiz_harfler\obj\Debug\kelime_icersindeki_sessiz_harfler.pdb

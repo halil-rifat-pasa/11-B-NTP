@@ -1,0 +1,8 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\yuzdeHesaplama\yuzdeHesaplama\bin\Debug\yuzdeHesaplama.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\yuzdeHesaplama\yuzdeHesaplama\bin\Debug\yuzdeHesaplama.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\yuzdeHesaplama\yuzdeHesaplama\bin\Debug\yuzdeHesaplama.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\yuzdeHesaplama\yuzdeHesaplama\obj\Debug\yuzdeHesaplama.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\yuzdeHesaplama\yuzdeHesaplama\obj\Debug\yuzdeHesaplama.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\yuzdeHesaplama\yuzdeHesaplama\obj\Debug\yuzdeHesaplama.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\yuzdeHesaplama\yuzdeHesaplama\obj\Debug\yuzdeHesaplama.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\yuzdeHesaplama\yuzdeHesaplama\obj\Debug\yuzdeHesaplama.pdb

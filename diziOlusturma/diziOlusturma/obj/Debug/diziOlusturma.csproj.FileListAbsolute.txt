@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziOlusturma\diziOlusturma\bin\Debug\diziOlusturma.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziOlusturma\diziOlusturma\bin\Debug\diziOlusturma.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziOlusturma\diziOlusturma\bin\Debug\diziOlusturma.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziOlusturma\diziOlusturma\obj\Debug\diziOlusturma.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziOlusturma\diziOlusturma\obj\Debug\diziOlusturma.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziOlusturma\diziOlusturma\obj\Debug\diziOlusturma.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziOlusturma\diziOlusturma\obj\Debug\diziOlusturma.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziOlusturma\diziOlusturma\obj\Debug\diziOlusturma.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziOlusturma\diziOlusturma\obj\Debug\diziOlusturma.pdb

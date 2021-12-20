@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziDonguIslemleri\diziDonguIslemleri\bin\Debug\diziDonguIslemleri.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziDonguIslemleri\diziDonguIslemleri\bin\Debug\diziDonguIslemleri.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziDonguIslemleri\diziDonguIslemleri\bin\Debug\diziDonguIslemleri.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziDonguIslemleri\diziDonguIslemleri\obj\Debug\diziDonguIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziDonguIslemleri\diziDonguIslemleri\obj\Debug\diziDonguIslemleri.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziDonguIslemleri\diziDonguIslemleri\obj\Debug\diziDonguIslemleri.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziDonguIslemleri\diziDonguIslemleri\obj\Debug\diziDonguIslemleri.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziDonguIslemleri\diziDonguIslemleri\obj\Debug\diziDonguIslemleri.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\diziDonguIslemleri\diziDonguIslemleri\obj\Debug\diziDonguIslemleri.pdb

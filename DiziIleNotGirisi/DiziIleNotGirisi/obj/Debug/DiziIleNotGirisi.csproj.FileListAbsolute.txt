@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DiziIleNotGirisi\DiziIleNotGirisi\bin\Debug\DiziIleNotGirisi.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DiziIleNotGirisi\DiziIleNotGirisi\bin\Debug\DiziIleNotGirisi.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DiziIleNotGirisi\DiziIleNotGirisi\bin\Debug\DiziIleNotGirisi.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DiziIleNotGirisi\DiziIleNotGirisi\obj\Debug\DiziIleNotGirisi.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DiziIleNotGirisi\DiziIleNotGirisi\obj\Debug\DiziIleNotGirisi.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DiziIleNotGirisi\DiziIleNotGirisi\obj\Debug\DiziIleNotGirisi.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DiziIleNotGirisi\DiziIleNotGirisi\obj\Debug\DiziIleNotGirisi.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DiziIleNotGirisi\DiziIleNotGirisi\obj\Debug\DiziIleNotGirisi.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DiziIleNotGirisi\DiziIleNotGirisi\obj\Debug\DiziIleNotGirisi.csprojResolveAssemblyReference.cache

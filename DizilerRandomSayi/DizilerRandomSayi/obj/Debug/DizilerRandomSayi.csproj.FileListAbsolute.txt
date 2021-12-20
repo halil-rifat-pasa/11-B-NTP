@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DizilerRandomSayi\DizilerRandomSayi\bin\Debug\DizilerRandomSayi.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DizilerRandomSayi\DizilerRandomSayi\bin\Debug\DizilerRandomSayi.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DizilerRandomSayi\DizilerRandomSayi\bin\Debug\DizilerRandomSayi.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DizilerRandomSayi\DizilerRandomSayi\obj\Debug\DizilerRandomSayi.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DizilerRandomSayi\DizilerRandomSayi\obj\Debug\DizilerRandomSayi.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DizilerRandomSayi\DizilerRandomSayi\obj\Debug\DizilerRandomSayi.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DizilerRandomSayi\DizilerRandomSayi\obj\Debug\DizilerRandomSayi.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DizilerRandomSayi\DizilerRandomSayi\obj\Debug\DizilerRandomSayi.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\DizilerRandomSayi\DizilerRandomSayi\obj\Debug\DizilerRandomSayi.pdb
