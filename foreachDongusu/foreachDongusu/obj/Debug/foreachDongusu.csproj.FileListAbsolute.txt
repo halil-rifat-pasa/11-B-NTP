@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\foreachDongusu\foreachDongusu\bin\Debug\foreachDongusu.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\foreachDongusu\foreachDongusu\bin\Debug\foreachDongusu.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\foreachDongusu\foreachDongusu\bin\Debug\foreachDongusu.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\foreachDongusu\foreachDongusu\obj\Debug\foreachDongusu.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\foreachDongusu\foreachDongusu\obj\Debug\foreachDongusu.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\foreachDongusu\foreachDongusu\obj\Debug\foreachDongusu.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\foreachDongusu\foreachDongusu\obj\Debug\foreachDongusu.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\foreachDongusu\foreachDongusu\obj\Debug\foreachDongusu.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\foreachDongusu\foreachDongusu\obj\Debug\foreachDongusu.pdb
