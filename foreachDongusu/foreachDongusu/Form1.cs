@@ -42,6 +42,8 @@ namespace foreachDongusu
         }
 
 
+
+  
         int[] sayilar = new int[100];
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -56,6 +58,17 @@ namespace foreachDongusu
                 if (sayilar.Contains(randomSayi) == false) {
                     sayilar[sayac] = randomSayi;
                     listBox1.Items.Add(sayilar[sayac]);
+
+
+                    if (randomSayi % 2 == 0)
+                    {
+                        listBox3.Items.Add(sayilar[sayac]);
+                    }
+                    else {
+                        listBox4.Items.Add(sayilar[sayac]);
+                    }
+
+
                     sayac++;
                 }
             }
@@ -88,6 +101,101 @@ namespace foreachDongusu
             {
                 listBox2.Items.Add(sayilar[i]);
             }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            string aranan = textBox2.Text;
+
+            int sayac = 0;
+
+            string tekCift = "Sayı Çiftir";
+
+            foreach(int sayi in sayilar){
+                sayac++;
+                if(sayi.ToString() == aranan){
+                    if (sayi % 3 == 0) {
+                        tekCift = "Sayı Tektir";
+                    }
+                    MessageBox.Show(aranan+" Sayı "+sayac+". değerde bulundu. "+tekCift);
+                    break;
+                }
+
+               
+            }
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+            int enKucukSayi = 10000;
+            foreach (int sayi in sayilar)
+            {
+                if (sayi < enKucukSayi) {
+                    enKucukSayi = sayi;
+                }
+            }
+
+            MessageBox.Show("En Küçük Sayı: "+enKucukSayi);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int enBuyukSayi = 0;
+            foreach (int sayi in sayilar)
+            {
+                if (sayi > enBuyukSayi)
+                {
+                    enBuyukSayi = sayi;
+                }
+            }
+
+            MessageBox.Show("En Küçük Sayı: " + enBuyukSayi);
+        }
+
+        private void radioButton3_Click(object sender, EventArgs e)
+        {
+            if (radioButton3.Checked) {
+                this.BackColor = Color.White;
+            }
+            else if (radioButton1.Checked)
+            {
+                this.BackColor = Color.Red;
+            }
+            else if (radioButton2.Checked)
+            {
+                this.BackColor = Color.Blue;
+            }
+        }
+
+        private void radioButton4_Click(object sender, EventArgs e)
+        {
+            if (radioButton4.Checked)
+            {
+                this.ForeColor = Color.Black;
+            }
+            else if (radioButton5.Checked)
+            {
+                this.BackColor = Color.White;
+            }
+            else if (radioButton6.Checked)
+            {
+                this.BackColor = Color.Blue;
+            }
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            if (textBox1.Text.Length > 0)
+            {
+                if (Convert.ToInt16(textBox1.Text) >= 10 && Convert.ToInt16(textBox1.Text) < 50)
+                {
+                    this.Font = new Font("Arial", Convert.ToInt16(textBox1.Text), FontStyle.Bold);
+                }
+            }
+           
+           
         }
     }
 }

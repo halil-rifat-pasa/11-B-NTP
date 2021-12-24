@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\Performans Sınavı\classVeFonksiyon\classVeFonksiyon\bin\Debug\classVeFonksiyon.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\Performans Sınavı\classVeFonksiyon\classVeFonksiyon\obj\Debug\classVeFonksiyon.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\Performans Sınavı\classVeFonksiyon\classVeFonksiyon\obj\Debug\classVeFonksiyon.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\Performans Sınavı\classVeFonksiyon\classVeFonksiyon\obj\Debug\classVeFonksiyon.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\Performans Sınavı\classVeFonksiyon\classVeFonksiyon\obj\Debug\classVeFonksiyon.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\Performans Sınavı\classVeFonksiyon\classVeFonksiyon\bin\Debug\classVeFonksiyon.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\Performans Sınavı\classVeFonksiyon\classVeFonksiyon\bin\Debug\classVeFonksiyon.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\Performans Sınavı\classVeFonksiyon\classVeFonksiyon\obj\Debug\classVeFonksiyon.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\Performans Sınavı\classVeFonksiyon\classVeFonksiyon\obj\Debug\classVeFonksiyon.pdb
