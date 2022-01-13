@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\1. Dönem 2. Sınav\veriTabaniBaglantisi\veriTabaniBaglantisi\bin\Debug\veriTabaniBaglantisi.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\1. Dönem 2. Sınav\veriTabaniBaglantisi\veriTabaniBaglantisi\bin\Debug\veriTabaniBaglantisi.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\1. Dönem 2. Sınav\veriTabaniBaglantisi\veriTabaniBaglantisi\bin\Debug\veriTabaniBaglantisi.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\1. Dönem 2. Sınav\veriTabaniBaglantisi\veriTabaniBaglantisi\obj\Debug\veriTabaniBaglantisi.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\1. Dönem 2. Sınav\veriTabaniBaglantisi\veriTabaniBaglantisi\obj\Debug\veriTabaniBaglantisi.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\1. Dönem 2. Sınav\veriTabaniBaglantisi\veriTabaniBaglantisi\obj\Debug\veriTabaniBaglantisi.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\1. Dönem 2. Sınav\veriTabaniBaglantisi\veriTabaniBaglantisi\obj\Debug\veriTabaniBaglantisi.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\1. Dönem 2. Sınav\veriTabaniBaglantisi\veriTabaniBaglantisi\obj\Debug\veriTabaniBaglantisi.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\1. Dönem 2. Sınav\veriTabaniBaglantisi\veriTabaniBaglantisi\obj\Debug\veriTabaniBaglantisi.pdb
