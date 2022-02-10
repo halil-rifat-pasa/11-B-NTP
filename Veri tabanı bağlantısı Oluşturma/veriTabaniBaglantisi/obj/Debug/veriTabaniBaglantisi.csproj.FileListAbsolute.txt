@@ -7,3 +7,6 @@ C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\1. Dönem 2. Sınav\veriTabani
 C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\1. Dönem 2. Sınav\veriTabaniBaglantisi\veriTabaniBaglantisi\obj\Debug\veriTabaniBaglantisi.csproj.GenerateResource.Cache
 C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\1. Dönem 2. Sınav\veriTabaniBaglantisi\veriTabaniBaglantisi\obj\Debug\veriTabaniBaglantisi.exe
 C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B Sınav\1. Dönem 2. Sınav\veriTabaniBaglantisi\veriTabaniBaglantisi\obj\Debug\veriTabaniBaglantisi.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\Veri tabanı bağlantısı Oluşturma\veriTabaniBaglantisi\bin\Debug\veriTabaniBaglantisi.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\Veri tabanı bağlantısı Oluşturma\veriTabaniBaglantisi\obj\Debug\veriTabaniBaglantisi.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\Veri tabanı bağlantısı Oluşturma\veriTabaniBaglantisi\obj\Debug\veriTabaniBaglantisi.pdb

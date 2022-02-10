@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\veritabani_islemleri\veritabani_islemleri\bin\Debug\veritabani_islemleri.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\veritabani_islemleri\veritabani_islemleri\bin\Debug\veritabani_islemleri.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\veritabani_islemleri\veritabani_islemleri\bin\Debug\veritabani_islemleri.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\veritabani_islemleri\veritabani_islemleri\obj\Debug\veritabani_islemleri.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\veritabani_islemleri\veritabani_islemleri\obj\Debug\veritabani_islemleri.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\veritabani_islemleri\veritabani_islemleri\obj\Debug\veritabani_islemleri.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\veritabani_islemleri\veritabani_islemleri\obj\Debug\veritabani_islemleri.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\veritabani_islemleri\veritabani_islemleri\obj\Debug\veritabani_islemleri.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\veritabani_islemleri\veritabani_islemleri\obj\Debug\veritabani_islemleri.pdb
