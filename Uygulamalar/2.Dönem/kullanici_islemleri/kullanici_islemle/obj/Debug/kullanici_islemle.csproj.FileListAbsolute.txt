@@ -1,0 +1,10 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\bin\Debug\kullanici_islemle.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\bin\Debug\kullanici_islemle.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\bin\Debug\kullanici_islemle.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\obj\Debug\kullanici_islemle.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\obj\Debug\kullanici_islemle.Form1.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\obj\Debug\kullanici_islemle.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\obj\Debug\kullanici_islemle.yeniKayitForm.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\obj\Debug\kullanici_islemle.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\obj\Debug\kullanici_islemle.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\obj\Debug\kullanici_islemle.pdb
