@@ -25,7 +25,8 @@ namespace kullanici_islemle
 
         private void button2_Click(object sender, EventArgs e)
         {
-            girisYap grs = new girisYap();
+            girisFormu grs = new girisFormu();
+            
             grs.ShowDialog();
         }
     }

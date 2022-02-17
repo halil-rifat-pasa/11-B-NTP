@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace kullanici_islemle
 {
-    public partial class girisYap : Form
+    public partial class kullanici : Form
     {
-        public girisYap()
+        public kullanici()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            //eğer giriş varsa kullanıcıyı giris formuna al.
         }
     }
 }

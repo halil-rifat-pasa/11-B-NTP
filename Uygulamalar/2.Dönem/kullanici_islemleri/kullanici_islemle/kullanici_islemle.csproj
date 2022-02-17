@@ -50,11 +50,17 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="girisYap.cs">
+    <Compile Include="girisFormu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="girisYap.Designer.cs">
-      <DependentUpon>girisYap.cs</DependentUpon>
+    <Compile Include="girisFormu.Designer.cs">
+      <DependentUpon>girisFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanici.Designer.cs">
+      <DependentUpon>kullanici.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -66,6 +72,9 @@
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="girisFormu.resx">
+      <DependentUpon>girisFormu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
