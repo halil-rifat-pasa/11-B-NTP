@@ -23,6 +23,10 @@ namespace kullanici_islemle
             InitializeComponent();
         }
 
+
+        public static string kullaniciAdi = "";
+        public static string sifre = "";
+
         private void button1_Click(object sender, EventArgs e)
         {
 
@@ -43,6 +47,10 @@ namespace kullanici_islemle
 
             if (loginKontrol == true)
             {
+
+                kullaniciAdi = textBox1.Text;
+                sifre = textBox2.Text;
+
                 //giriş var. form aç
                 kullanici kln = new kullanici();
                 this.Hide();

@@ -150,6 +150,7 @@
             this.Controls.Add(this.label1);
             this.Name = "kullanici";
             this.Text = "kullanici";
+            this.Load += new System.EventHandler(this.kullanici_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

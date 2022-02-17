@@ -9,3 +9,4 @@ C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\o
 C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\obj\Debug\kullanici_islemle.exe
 C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\obj\Debug\kullanici_islemle.pdb
 C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\obj\Debug\kullanici_islemle.girisFormu.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B\kullanici_islemle\kullanici_islemle\obj\Debug\kullanici_islemle.kullanici.resources
