@@ -56,5 +56,14 @@ namespace kullanici_islemle
 
             conn.Close(); 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            conn.Open();
+            SqlCommand guncelle = new SqlCommand("UPDATE kullanicilar SET adi = '"+textBox2.Text+"', soyadi = '"+textBox3.Text+"' , kullanici_adi = '"+textBox4.Text+"', kullanici_sifre = '"+textBox5.Text+"' WHERE kullanici_id_PK = '"+textBox1.Text+"' ", conn);
+            guncelle.ExecuteNonQuery();
+            conn.Close();
+            MessageBox.Show("Güncelledim");
+        }
     }
 }

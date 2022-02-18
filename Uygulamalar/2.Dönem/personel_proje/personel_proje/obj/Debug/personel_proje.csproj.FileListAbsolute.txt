@@ -1,0 +1,11 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\personel_proje\personel_proje\bin\Debug\personel_proje.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\personel_proje\personel_proje\bin\Debug\personel_proje.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\personel_proje\personel_proje\bin\Debug\personel_proje.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\personel_proje\personel_proje\obj\Debug\personel_proje.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\personel_proje\personel_proje\obj\Debug\personel_proje.girisFormu.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\personel_proje\personel_proje\obj\Debug\personel_proje.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\personel_proje\personel_proje\obj\Debug\personel_proje.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\personel_proje\personel_proje\obj\Debug\personel_proje.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\personel_proje\personel_proje\obj\Debug\personel_proje.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\personel_proje\personel_proje\obj\Debug\personel_proje.adminEkrani.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\personel_proje\personel_proje\obj\Debug\personel_proje.kullaniciEkrani.resources
