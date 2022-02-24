@@ -1,0 +1,9 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriTabani\hastaneVeriTabani\bin\Debug\hastaneVeriTabani.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriTabani\hastaneVeriTabani\bin\Debug\hastaneVeriTabani.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriTabani\hastaneVeriTabani\bin\Debug\hastaneVeriTabani.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriTabani\hastaneVeriTabani\obj\Debug\hastaneVeriTabani.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriTabani\hastaneVeriTabani\obj\Debug\hastaneVeriTabani.girisEkrani.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriTabani\hastaneVeriTabani\obj\Debug\hastaneVeriTabani.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriTabani\hastaneVeriTabani\obj\Debug\hastaneVeriTabani.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriTabani\hastaneVeriTabani\obj\Debug\hastaneVeriTabani.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriTabani\hastaneVeriTabani\obj\Debug\hastaneVeriTabani.pdb
