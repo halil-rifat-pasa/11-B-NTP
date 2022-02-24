@@ -16,7 +16,7 @@ namespace hastaneVeriTabani
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new girisEkrani());
+            Application.Run(new hemsireEkrani());
         }
     }
 }
