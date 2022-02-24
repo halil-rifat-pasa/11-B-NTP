@@ -22,6 +22,10 @@ namespace hastaneVeriTabani
         public static SqlConnection conn = new SqlConnection("Data Source=localhost;Initial Catalog=__hastaneVT;User ID=testUser;Password=123");
 
 
+        public static string kullaniciTur = "";
+        public static string adi = "";
+        public static string soyadi = "";
+
 
         private void girisEkrani_Load(object sender, EventArgs e)
         {
@@ -34,13 +38,17 @@ namespace hastaneVeriTabani
             bool loginKontrolu = false; //false ise giriş yok. True giriş var.
 
             conn.Open();
-            SqlCommand komut = new SqlCommand("SELECT * FROM tbl_personeller", conn);
+            SqlCommand komut = new SqlCommand("SELECT * FROM tbl_personeller INNER JOIN tbl_bolumler ON personel_bolum = bolum_id_PK", conn);
             SqlDataReader oku = komut.ExecuteReader();
             while (oku.Read())
             {
                 if (textBox1.Text == oku["personel_sistem_kullanici_adi"].ToString() && textBox2.Text == oku["personel_sistem_kullanici_sifre"].ToString())
                 {
                     loginKontrolu = true;
+
+                    kullaniciTur = oku["bolum_adi"].ToString();
+                    adi = oku["personel_adi"].ToString();
+                    soyadi = oku["personel_soyadi"].ToString();
                 }
             }
 
@@ -51,7 +59,21 @@ namespace hastaneVeriTabani
                 label4.Visible = true;
             }
             else {
-                MessageBox.Show("Giriş Yapıldı");
+
+                conn.Close();
+                if (kullaniciTur == "Doktor") 
+                {
+                    DoktorEkrani doktor = new DoktorEkrani();
+                    this.Hide();
+                    doktor.ShowDialog();
+
+                }
+                else if (kullaniciTur == "Hemşire") 
+                {
+                    hemsireEkrani hem = new hemsireEkrani();
+                    this.Hide();
+                    hem.ShowDialog();
+                }
             
             }
 
