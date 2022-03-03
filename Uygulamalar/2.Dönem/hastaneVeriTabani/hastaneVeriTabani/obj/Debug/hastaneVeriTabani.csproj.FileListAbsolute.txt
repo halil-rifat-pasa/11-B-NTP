@@ -8,3 +8,4 @@ C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriT
 C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriTabani\hastaneVeriTabani\obj\Debug\hastaneVeriTabani.exe
 C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriTabani\hastaneVeriTabani\obj\Debug\hastaneVeriTabani.pdb
 C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriTabani\hastaneVeriTabani\obj\Debug\hastaneVeriTabani.hemsireEkrani.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\hastaneVeriTabani\hastaneVeriTabani\obj\Debug\hastaneVeriTabani.DoktorEkrani.resources

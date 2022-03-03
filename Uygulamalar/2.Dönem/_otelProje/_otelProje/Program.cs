@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace hastaneVeriTabani
+namespace _otelProje
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace hastaneVeriTabani
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new girisEkrani());
+            Application.Run(new Form1());
         }
     }
 }

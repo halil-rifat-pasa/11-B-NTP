@@ -18,15 +18,22 @@ namespace hastaneVeriTabani
             InitializeComponent();
         }
 
-        private void hemsireEkrani_Load(object sender, EventArgs e)
+
+        void listele() 
         {
             DataTable dt = new DataTable();
             girisEkrani.conn.Open();
-            SqlDataAdapter adp = new SqlDataAdapter("SELECT hasta_bilgileri_id as 'Hasta Numarası',adi as 'Adı', soyadi as 'Soyadı',dogum_tarihi as 'Doğum Tarihi', oda_numarasi as 'Oda Numarası' FROM tbl_hasta_bilgileri",girisEkrani.conn);
+            SqlDataAdapter adp = new SqlDataAdapter("SELECT hasta_bilgileri_id as 'Hasta Numarası',adi as 'Adı', soyadi as 'Soyadı',dogum_tarihi as 'Doğum Tarihi', oda_numarasi as 'Oda Numarası' FROM tbl_hasta_bilgileri", girisEkrani.conn);
             adp.Fill(dt);
             dataGridView1.DataSource = dt;
 
             girisEkrani.conn.Close();
+        }
+
+
+        private void hemsireEkrani_Load(object sender, EventArgs e)
+        {
+            listele();
         }
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -47,19 +54,17 @@ namespace hastaneVeriTabani
         private void button1_Click(object sender, EventArgs e)
         {
             girisEkrani.conn.Open();
-
             SqlCommand komut = new SqlCommand("UPDATE tbl_hasta_bilgileri SET adi='"+textBox1.Text+"', soyadi='"+textBox2.Text+"',  oda_numarasi = '"+textBox4.Text+"' WHERE  hasta_bilgileri_id = '"+textBox5.Text+"'", girisEkrani.conn);
             komut.ExecuteNonQuery();
             girisEkrani.conn.Close();
 
 
-            DataTable dt = new DataTable();
-            girisEkrani.conn.Open();
-            SqlDataAdapter adp = new SqlDataAdapter("SELECT hasta_bilgileri_id as 'Hasta Numarası',adi as 'Adı', soyadi as 'Soyadı',dogum_tarihi as 'Doğum Tarihi', oda_numarasi as 'Oda Numarası' FROM tbl_hasta_bilgileri", girisEkrani.conn);
-            adp.Fill(dt);
-            dataGridView1.DataSource = dt;
+            listele();
+        }
 
-            girisEkrani.conn.Close();
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
