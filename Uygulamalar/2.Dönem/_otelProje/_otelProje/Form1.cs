@@ -68,15 +68,19 @@ namespace _otelProje
 
             if ((sender as Button).BackColor == Color.Red)
             {
-                MessageBox.Show("Zaten Dolu ..");
-               /* DialogResult x =  MessageBox.Show("Oda Dolu, Güncellemek için Ok Tuşuna Basın.","Uyarı",MessageBoxButtons.YesNo);
-               if (x == DialogResult.OK) 
-               {
-                   odaKayit kayit = new odaKayit();
-                   kayit.ShowDialog();
-               
-               } */
 
+                /* 
+                 * MessageBox.Show("Zaten Dolu ..");
+                 * 
+                 * DialogResult x =  MessageBox.Show("Oda Dolu, Güncellemek için Ok Tuşuna Basın.","Uyarı",MessageBoxButtons.YesNo);
+                if (x == DialogResult.OK) 
+                {
+                    odaKayit kayit = new odaKayit();
+                    kayit.ShowDialog();
+               
+                } */
+                odaKayit kayit = new odaKayit();
+                kayit.ShowDialog();
 
 
 
