@@ -32,10 +32,27 @@ namespace _otelProje
             {
                 if (x is Button) 
                 {
-
+                   
                     x.Text = "Oda " + butonSayac.ToString();
                     x.BackColor = Color.DarkGreen;
                     x.ForeColor = Color.White;
+                    
+                    conn.Open();
+                    SqlCommand komut = new SqlCommand("SELECT * FROM tbl_musteriler",conn);
+                    SqlDataReader oku = komut.ExecuteReader();
+
+                    while (oku.Read())
+                    {
+                        if (oku["oda_no"].ToString() == x.Text)
+                        {
+                            x.BackColor = Color.Red;
+                        }
+                    }
+
+                    conn.Close();
+
+
+
                     butonSayac--;
                 }
             }
@@ -52,6 +69,17 @@ namespace _otelProje
             if ((sender as Button).BackColor == Color.Red)
             {
                 MessageBox.Show("Zaten Dolu ..");
+               /* DialogResult x =  MessageBox.Show("Oda Dolu, Güncellemek için Ok Tuşuna Basın.","Uyarı",MessageBoxButtons.YesNo);
+               if (x == DialogResult.OK) 
+               {
+                   odaKayit kayit = new odaKayit();
+                   kayit.ShowDialog();
+               
+               } */
+
+
+
+
 
             }
             else 
