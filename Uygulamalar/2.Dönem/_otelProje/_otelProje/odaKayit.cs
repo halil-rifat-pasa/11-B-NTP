@@ -105,6 +105,7 @@ namespace _otelProje
             SqlCommand komut = new SqlCommand("DELETE FROM tbl_musteriler WHERE oda_no = '"+textBox1.Text+"'",Form1.conn);
             komut.ExecuteNonQuery();
             Form1.conn.Close();
+            MessageBox.Show("Silme İşlemi Başarılı ! ");
         }
     }
 }

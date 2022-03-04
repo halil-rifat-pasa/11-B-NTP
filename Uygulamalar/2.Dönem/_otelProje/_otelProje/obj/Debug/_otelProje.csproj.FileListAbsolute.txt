@@ -8,3 +8,4 @@ C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_otelProje\_
 C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_otelProje\_otelProje\obj\Debug\_otelProje.pdb
 C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_otelProje\_otelProje\obj\Debug\_otelProje.odaKayit.resources
 C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_otelProje\_otelProje\obj\Debug\_otelProje.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_otelProje\_otelProje\obj\Debug\_otelProje.odalar.resources

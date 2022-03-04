@@ -27,6 +27,20 @@ namespace _otelProje
         private void Form1_Load(object sender, EventArgs e)
         {
             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             int butonSayac = 16;
             foreach (Control x in this.Controls)
             {
@@ -56,6 +70,18 @@ namespace _otelProje
                     butonSayac--;
                 }
             }
+
+
+            DataTable dt = new DataTable();
+            conn.Open();
+            SqlDataAdapter adp = new SqlDataAdapter("SELECT * FROM V_musterileri_getir", conn);
+            adp.Fill(dt);
+            dataGridView1.DataSource = dt;
+            conn.Close();
+
+
+
+
         }
 
         public static string seciliOda = ""; 
