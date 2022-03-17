@@ -1,0 +1,10 @@
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_sinemaUygulama\_sinemaUygulama\bin\Debug\_sinemaUygulama.exe.config
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_sinemaUygulama\_sinemaUygulama\bin\Debug\_sinemaUygulama.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_sinemaUygulama\_sinemaUygulama\bin\Debug\_sinemaUygulama.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_sinemaUygulama\_sinemaUygulama\obj\Debug\_sinemaUygulama.csprojResolveAssemblyReference.cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_sinemaUygulama\_sinemaUygulama\obj\Debug\_sinemaUygulama.Properties.Resources.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_sinemaUygulama\_sinemaUygulama\obj\Debug\_sinemaUygulama.csproj.GenerateResource.Cache
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_sinemaUygulama\_sinemaUygulama\obj\Debug\_sinemaUygulama.exe
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_sinemaUygulama\_sinemaUygulama\obj\Debug\_sinemaUygulama.pdb
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_sinemaUygulama\_sinemaUygulama\obj\Debug\_sinemaUygulama.filmSecim.resources
+C:\Users\LAB5-OGRETMEN\Desktop\Github\11-B-NTP\Uygulamalar\2.Dönem\_sinemaUygulama\_sinemaUygulama\obj\Debug\_sinemaUygulama.koltukSecimi.resources
