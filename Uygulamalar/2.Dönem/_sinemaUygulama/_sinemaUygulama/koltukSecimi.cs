@@ -23,6 +23,9 @@ namespace _sinemaUygulama
         private void koltukSecimi_Load(object sender, EventArgs e)
         {
 
+
+
+
             
             if (filmSecim.filmAdi == "pictureBox1") {
                 film = "batman";
@@ -46,6 +49,9 @@ namespace _sinemaUygulama
 
 
 
+
+
+
             //MessageBox.Show(film);
             int butonSayisi = 100;
 
@@ -61,6 +67,7 @@ namespace _sinemaUygulama
 
             for (int i = 1; i <= butonSayisi; i++)
             {
+
                 //butonun ayarlamalarını yapıyorum.
                 Button koltuklar = new Button();
                 koltuklar.Name = "koltuk" + i.ToString();
@@ -93,13 +100,30 @@ namespace _sinemaUygulama
 
 
 
+
+          
+
+            foreach (Control doluKoltuklar in groupBox1.Controls)
+            {
+                if (doluKoltuklar is Button) 
+                {
+                    conn.Open();
+                    SqlCommand komut = new SqlCommand("SELECT * FROM koltuk_secimleri WHERE film_adi = '" + film + "' AND koltuk_adi = '"+doluKoltuklar.Name+"'", conn);
+                    SqlDataReader oku = komut.ExecuteReader();
+
+                    //okunun içinde aranan satır varsa..
+                    if (oku.HasRows) 
+                    {
+                        doluKoltuklar.BackColor = Color.Red;
+                    }
+
+                    conn.Close();
+                }
+            }
             
 
-            /*foreach (Control koltuklar in groupBox1.Controls)
-            {
-                
-            }*/
-
+          
+        
 
 
         }
