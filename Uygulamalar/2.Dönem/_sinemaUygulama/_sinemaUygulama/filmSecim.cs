@@ -16,5 +16,15 @@ namespace _sinemaUygulama
         {
             InitializeComponent();
         }
+
+        public static string filmAdi = "";
+
+        private void _filmsec(object sender, EventArgs e)
+        {
+            filmAdi = (sender as PictureBox).Name;
+
+            koltukSecimi sec = new koltukSecimi();
+            sec.ShowDialog();
+        }
     }
 }

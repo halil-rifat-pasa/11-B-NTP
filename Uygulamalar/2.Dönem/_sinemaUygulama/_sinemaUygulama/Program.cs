@@ -16,7 +16,7 @@ namespace _sinemaUygulama
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new koltukSecimi());
+            Application.Run(new filmSecim());
         }
     }
 }
